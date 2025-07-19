@@ -22,21 +22,21 @@ This dashboard presents a professional overview of retail performance by visuali
 
 ### 📈 **Dashboard Features**
 
-#### ✅ KPIs (cards)
+#### ✅ **KPIs (cards)**
 
 * **Total Sales**
 * **Total Profit**
 * **Order Count**
 * **Average Discount**
 
-#### 📊 Visualizations
+#### 📊 **Visualizations**
 
 * 📍 **Top 10 Products by Sales** (Horizontal Bar Chart using `Product ID`)
 * 📅 **Sales Over Time** (Line Chart by `Order Date`)
 * 🌎 **Sales by Region** (Map or Bar Chart)
 * 🎯 **Sales by Segment and Category** (Stacked/Clustered Bar)
 
-#### 🔄 Slicers (filters for user interactivity)
+#### 🔄 **Slicers (filters for user interactivity)**
 
 * 📆 **Order Year**
 * 🧍 **Customer Segment**
@@ -47,7 +47,7 @@ This dashboard presents a professional overview of retail performance by visuali
 
 ---
 
-### 🛠️ Tools Used
+### 🛠️**Built With**
 
 * Power BI Desktop
 * Data Cleaning & Modeling (Power Query)
@@ -55,7 +55,7 @@ This dashboard presents a professional overview of retail performance by visuali
 
 ---
 
-### 📁 Files Included
+### 📁 **Files Included**
 
 | File                                   | Description                          |
 | -------------------------------------- | ------------------------------------ |
