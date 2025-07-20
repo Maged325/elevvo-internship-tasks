@@ -1,6 +1,6 @@
 # 🧠 RFM Customer Segmentation with Python
 
-This project performs **Customer Segmentation** using **RFM Analysis** (Recency, Frequency, Monetary) on an online retail dataset.
+This project was created as part of Task 2 in my internship program. This project performs **Customer Segmentation** using **RFM Analysis** (Recency, Frequency, Monetary) on an online retail dataset.
 
 ## 📁 Files Included
 
@@ -70,7 +70,7 @@ These are then scored from 1 (lowest) to 5 (highest) to create segments like `"5
 
 ## 📸 Sample Output
 
-![1753045749144](image/readme/1753045749144.png)
+<img width="603" height="454" alt="bar chart" src="https://github.com/user-attachments/assets/ab1fd147-258e-43d6-af6e-9e764d765cd9" />
 
 ---
 
