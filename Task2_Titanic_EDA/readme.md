@@ -1,4 +1,4 @@
-# 🚢 Titanic Exploratory Data Analysis (EDA)
+# 🚢 Task 2: Titanic Exploratory Data Analysis (EDA)
 
 A beginner-friendly data analysis project that explores the legendary **Titanic dataset** using Python and popular libraries like **Pandas**, **Seaborn**, and **Matplotlib**.
 
