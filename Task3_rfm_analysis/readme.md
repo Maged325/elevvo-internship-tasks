@@ -1,4 +1,4 @@
-# 🧠 RFM Customer Segmentation with Python
+# 🧠 Task 3: RFM Customer Segmentation with Python
 
 This project was created as part of Task 3 in my internship program. This project performs **Customer Segmentation** using **RFM Analysis** (Recency, Frequency, Monetary) on an online retail dataset.
 
