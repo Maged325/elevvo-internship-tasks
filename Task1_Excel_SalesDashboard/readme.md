@@ -1,17 +1,17 @@
-# 📊 Task 1: Excel Sales Performance Dashboard
+# 📊 **Task 1: Excel Sales Performance Dashboard**
 
 This project is part of my internship under the **Sales Analysis Track**. It showcases how Excel can be used to create a clean and interactive **Sales Performance Dashboard** using real-world retail data.
 
 ---
 
-## 🗂 Dataset
+## 🗂 **Dataset**
 
 - **Source**: Superstore Sales Dataset (Kaggle)
 - **File**: `Superstore Sales.csv`
 
 ---
 
-## ⚒️ Tools Implemented
+## ⚒️ **Tools Implemented**
 
 - Microsoft Excel 💻
 - Pivot Tables 📈
@@ -20,7 +20,7 @@ This project is part of my internship under the **Sales Analysis Track**. It sho
 
 ---
 
-## 🧹 Data Cleaning Highlights
+## 🧹**Data Cleaning Highlights**
 
 - Removed blank columns and unnecessary formatting.
 - Corrected data types for `Order Date`, `Sales`, `Quantity`.
@@ -28,7 +28,7 @@ This project is part of my internship under the **Sales Analysis Track**. It sho
 
 ---
 
-## 📌 Dashboard Features
+## 📌 **Dashboard Features**
 
 - **Pivot Charts**: Monthly revenue trends, category-wise sales, regional breakdown.
 - **Timeline Slicer**: Filter sales by month or year.
@@ -36,13 +36,13 @@ This project is part of my internship under the **Sales Analysis Track**. It sho
 
 ---
 
-## 📷 Dashboard Preview
+## 📷 **Dashboard Preview**
 
 ![Dashboard Screenshot](Dashboard_Screenshot.png)
 
 ---
 
-## 🧠 Key Skills Demonstrated
+## 🧠 **Key Skills Demonstrated**
 
 - Data organization and transformation in Excel.
 - Building insightful dashboards using PivotTables and charts.
@@ -51,7 +51,7 @@ This project is part of my internship under the **Sales Analysis Track**. It sho
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 **Let’s Connect**
 
 Made by **Maged Fouad** during Elevvo Internship.
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mfouadmohamed325/) 💼
