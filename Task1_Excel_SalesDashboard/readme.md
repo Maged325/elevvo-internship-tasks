@@ -1,6 +1,6 @@
 # 📊 **Task 1: Excel Sales Performance Dashboard**
 
-This project is part of my internship under the **Sales Analysis Track**. It showcases how Excel can be used to create a clean and interactive **Sales Performance Dashboard** using real-world retail data.
+This project is part of my internship under the **Analysis Track**. It showcases how Excel can be used to create a clean and interactive **Sales Performance Dashboard** using real-world retail data.
 
 ---
 
