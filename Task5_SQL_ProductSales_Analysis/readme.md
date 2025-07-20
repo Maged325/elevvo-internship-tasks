@@ -1,17 +1,17 @@
-# Task 5: SQL-Based Analysis of Product Sales
+# **Task 5: SQL-Based Analysis of Product Sales**
 
 This project is part of the Elevvo Internship Tasks — focused on SQL analytics using the Chinook Database. The objective is to perform deep product and sales analysis using SQL queries and business logic.
 
 ---
 
-## 🗂️ Dataset
+## 🗂️ **Dataset**
 
 - **Source**: [Chinook Database](https://www.kaggle.com/datasets/ranasabrii/chinook/data) (converted from `.sqlite` to CSV format) 
 - **Tables Used**: Album, Artist, Customer, Invoice, InvoiceLine, Track, Genre, MediaType, Playlist, Employee, PlaylistTrack
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️**Tools & Technologies**
 
 - Microsoft SQL Server
 - SQL Queries
@@ -21,7 +21,7 @@ This project is part of the Elevvo Internship Tasks — focused on SQL analytics
 
 ---
 
-## 📊 Key Business Questions Answered
+## 📊 **Key Business Questions Answered**
 
 1. **Top-Selling Products** – Identify the top 10 tracks by quantity sold
 2. **Revenue by Country** – Analyze revenue per region using customer country
@@ -31,22 +31,15 @@ This project is part of the Elevvo Internship Tasks — focused on SQL analytics
 
 ---
 
-## 📁 Files Included
+## 📁 **Files Included**
 
 | File Name                     | Description                                 |
 | ----------------------------- | ------------------------------------------- |
-| `Chinook_SalesAnalysis.sql` | Final SQL query file used for analysis      |
-| `Chinook_CSVs/`             | Folder containing 11 imported tables in CSV |
-| `Chinook.sqlite/`           |                                             |
-| `README.md`                 | Project overview and analysis breakdown     |
+| `Chinook_SalesAnalysis.sql` | Final SQL query file used for analysis        |
+| `Chinook_CSVs/`             | Folder containing 11 imported tables in CSV   |
+| `Chinook.sqlite/`           | Original database file downloaded from Kaggle |
+| `README.md`                 | Project overview and analysis breakdown       |
 
-
-
-| `Chinook_Sqlite.sqlite` |
-| ------------------------- |
-
-|  |
-| - |
 
 ---
 
