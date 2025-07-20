@@ -1,4 +1,4 @@
-## 🛍️ ** Task 8: Power BI Retail Insights Dashboard**
+## 🛍️ **Task 8: Power BI Retail Insights Dashboard**
 
 A clean and interactive Power BI dashboard built using the **Superstore Sales dataset** to extract key business insights across regions, products, and customer segments.
 
